@@ -12,9 +12,9 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Networking and System Administration
+- 🌱 I’m currently learning Software Development and System Administration
 
-- 📫 How to reach me **jamesfynn64@gmail.com**
+- 📫 How to reach me **jamesfynn64@gmail.com**/**0597559467**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
